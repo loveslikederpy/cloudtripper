@@ -1,4 +1,4 @@
 cloudtripper
 ============
 
-The Elastic Tripcode Cloud Service
+The Elastic Tripcode Mining Cloud Service
